@@ -20,11 +20,3 @@ env/
 # Logs
 *.log
 
-# MacOS files
-.DS_Store
-
-# Other
-*.sqlite3
-*.db
-*.bak
-*.swp
