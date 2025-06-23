@@ -1,0 +1,324 @@
+[
+  {
+    "course_id": "039985",
+    "course_code": "COSC2408",
+    "title": "Programming Project 1",
+    "semester": "Sem 2 2024",
+    "credits": 12,
+    "campus": "City",
+    "school": "Computing Technologies",
+    "career": "Undergraduate",
+    "description": "This course is designed to provide you with hands-on practical experience developing software and/or delivering IT solutions in a project environment. You will work in teams and complete projects from inception to implementation. The emphasis is on understanding and working within a corporate environment, using formal project and software delivery methodologies and integrating all the skills and knowledge that you have acquired into a solid base from which to progress your professional life. This course includes a work integrated learning (WIL) experience in which your knowledge and skills will be applied and assessed in a real or simulated workplace context and where feedback from industry and/or community is integral to your experience.",
+    "topics": [],
+    "prerequisites": [],
+    "course_type": "elective"
+  },
+  {
+    "course_id": "N/A",
+    "course_code": "INTE2584",
+    "title": "Cybersecurity Governance",
+    "semester": "Sem 2 2024",
+    "credits": 12,
+    "campus": "City",
+    "school": "Computing Technologies",
+    "career": "Undergraduate",
+    "description": "This course develops the ability to critically appraise cybersecurity governance frameworks, evaluate policies and structures for protecting information assets, and understand ethical and legal compliance in cybersecurity contexts. Students will apply KPIs and risk management in business environments.",
+    "topics": [
+      "Cybersecurity frameworks",
+      "Governance strategies and policies",
+      "Legal and ethical considerations",
+      "Risk management and KPIs"
+    ],
+    "prerequisites": [],
+    "course_type": "core"
+  },
+  {
+    "course_id": "054992",
+    "course_code": "INTE2626",
+    "title": "Cyber Security Attack Analysis and Incidence Response",
+    "semester": "Sem 1 2025",
+    "credits": 12,
+    "campus": "City",
+    "school": "Computing Technologies",
+    "career": "Undergraduate",
+    "description": "This course provides knowledge and skills to detect, analyze, and respond to cyber attacks. Topics include identifying attack vectors, vulnerabilities, evidence examination, and understanding incident response workflows.",
+    "topics": [
+      "Cyber attack analysis",
+      "Incident response planning",
+      "Digital forensics",
+      "Vulnerability assessment"
+    ],
+    "prerequisites": [],
+    "course_type": "core"
+  },
+  {
+    "course_id": "004245",
+    "course_code": "ISYS1108",
+    "title": "Software Engineering Project Management",
+    "semester": "Sem 1 2025",
+    "credits": 12,
+    "campus": "City",
+    "school": "Computing Technologies",
+    "career": "Undergraduate",
+    "description": "This course introduces software project management principles, industry practices, and teamwork. It includes self and team-based project skills, and work integrated learning experiences for practical application.",
+    "topics": [
+      "Project management basics",
+      "IT operations",
+      "Team collaboration",
+      "Industry simulation"
+    ],
+    "prerequisites": [],
+    "course_type": "core"
+  },
+  {
+    "course_id": "054910",
+    "course_code": "OENG1235",
+    "title": "Innovation Ecosystem and the Future of Work",
+    "semester": "Sem 2 2024",
+    "credits": 12,
+    "campus": "City",
+    "school": "Computing Technologies",
+    "career": "Undergraduate",
+    "description": "This course explores innovation in technology, work, and life. It teaches how ecosystems, technology, and global trends affect the future of work. Activities include workshops, serious games, and case studies from alumni and industry leaders.",
+    "topics": [
+      "Innovation ecosystems",
+      "Future of work trends",
+      "Technology and society",
+      "Global innovation drivers"
+    ],
+    "prerequisites": [],
+    "course_type": "core"
+  },
+  {
+    "course_id": "036671",
+    "course_code": "COSC2301",
+    "title": "Computer and Internet Forensics",
+    "semester": "Sem 2 2024",
+    "credits": 12,
+    "campus": "City",
+    "school": "Computing Technologies",
+    "career": "Undergraduate",
+    "description": "This course introduces students to the principles and practice of computer and internet forensics. Students will explore issues related to security of computer systems, accessing and analyzing data, reconstructing events, surveillance, intrusion prevention, intrusion detection, and recovery from breaches.",
+    "topics": [
+      "Desktop/mobile forensic examination",
+      "Security breach reconstruction",
+      "Intrusion prevention and detection"
+    ],
+    "prerequisites": [],
+    "course_type": "core"
+  },
+  {
+    "course_id": "049803",
+    "course_code": "COSC2626",
+    "title": "Cloud Computing",
+    "semester": "Sem 1 2025",
+    "credits": 12,
+    "campus": "City",
+    "school": "Computing Technologies",
+    "career": "Undergraduate",
+    "description": "This course covers topics and technologies related to Cloud Computing and their practical implementations. You will explore different architectural models, virtualisation, orchestration, and gain hands-on experience with AWS.",
+    "topics": [
+      "Cloud architecture models",
+      "Virtualisation",
+      "Cloud orchestration",
+      "AWS hands-on labs"
+    ],
+    "prerequisites": [],
+    "course_type": "elective"
+  },
+  {
+    "course_id": "004178",
+    "course_code": "INTE1071",
+    "title": "Secure Electronic Commerce",
+    "semester": "Sem 2 2024",
+    "credits": 12,
+    "campus": "City",
+    "school": "Computing Technologies",
+    "career": "Undergraduate",
+    "description": "This course introduces secure e-commerce concepts, key technical aspects of e-commerce application security, common threats, and practical exercises for identifying vulnerabilities and using advanced countermeasures.",
+    "topics": [
+      "E-commerce application security",
+      "Common threats and vulnerabilities",
+      "Practical attacks and defenses"
+    ],
+    "prerequisites": [],
+    "course_type": "core"
+  },
+  {
+    "course_id": "038407",
+    "course_code": "INTE2402",
+    "title": "Cloud Security",
+    "semester": "Sem 1 2024",
+    "credits": 12,
+    "campus": "City",
+    "school": "Computing Technologies",
+    "career": "Undergraduate",
+    "description": "This course covers principles and techniques of cloud security. It provides a survey of methods used to protect data, applications, and infrastructure within cloud computing environments.",
+    "topics": [
+      "Cloud security principles",
+      "Data and infrastructure protection",
+      "Applied security techniques"
+    ],
+    "prerequisites": [],
+    "minor_track": [
+      "Cloud Computing"
+    ],
+    "course_type": "core"
+  },
+  {
+    "course_id": "053170",
+    "course_code": "INTE2547",
+    "title": "Security Testing",
+    "semester": "Sem 2 2024",
+    "credits": 12,
+    "campus": "City",
+    "school": "Computing Technologies",
+    "career": "Undergraduate",
+    "description": "This course teaches tools and techniques for practical security testing. Students will learn to monitor internet traffic, identify vulnerabilities, test secure applications, perform MITM attacks, and apply secure software testing methods.",
+    "topics": [
+      "Internet traffic monitoring",
+      "Vulnerability identification",
+      "Man-in-the-middle (MITM) techniques",
+      "Secure software testing"
+    ],
+    "prerequisites": [],
+    "course_type": "core"
+  },
+  {
+    "course_id": "054993",
+    "course_code": "INTE2627",
+    "title": "Blockchain Technology Fundamentals",
+    "semester": "Sem 1 2025",
+    "credits": 12,
+    "campus": "City",
+    "school": "Computing Technologies",
+    "career": "Undergraduate",
+    "description": "This course introduces students to blockchain structure, applications, and principles like immutability, cryptography, consensus algorithms, and the differences between public, private, and permissioned blockchains.",
+    "topics": [
+      "Blockchain structure and data immutability",
+      "Decentralized systems and cryptography",
+      "Consensus algorithms",
+      "Types of blockchains (public/private/permissioned)"
+    ],
+    "prerequisites": [],
+    "course_type": "core"
+  },
+  {
+    "course_id": "004309",
+    "course_code": "ISYS1118",
+    "title": "Software Engineering Fundamentals",
+    "semester": "Sem 2 2023",
+    "credits": 12,
+    "campus": "City",
+    "school": "Computing Technologies",
+    "career": "Undergraduate",
+    "description": "This course covers the analysis, design, and implementation of complex software systems. Students work in teams using project-based learning, refine designs iteratively, and learn to incorporate qualities such as maintainability, reusability, and robustness using both top-down and bottom-up approaches.",
+    "topics": [
+      "Software project lifecycle",
+      "Team-based system design",
+      "Maintainability and robustness",
+      "Top-down and bottom-up design"
+    ],
+    "prerequisites": [],
+    "course_type": "elective"
+  },
+  {
+    "course_id": "N/A",
+    "course_code": "COSC1111",
+    "title": "Data Communication and Net-Centric Computing",
+    "semester": "Sem 2 2024",
+    "credits": 12,
+    "campus": "City",
+    "school": "Computing Technologies",
+    "career": "Undergraduate",
+    "description": "This course provides a broad introduction to the fundamentals of data communication and network technology. Topics include communication principles, models, protocols, and applications relevant to networked environments.",
+    "topics": [
+      "Principles and reference models of data communication",
+      "Communication system operations",
+      "Protocols and error handling",
+      "Applications in networked environments"
+    ],
+    "prerequisites": [],
+    "course_type": "core"
+  },
+  {
+    "course_id": "N/A",
+    "course_code": "COSC2801",
+    "title": "Programming Bootcamp 1",
+    "semester": "Sem 1 2024",
+    "credits": 12,
+    "campus": "City",
+    "school": "Computing Technologies",
+    "career": "Undergraduate",
+    "description": "This course uses a bootcamp format to teach programming fundamentals, algorithmic problem solving, practical software development, and self-directed learning techniques.",
+    "topics": [
+      "Programming fundamentals",
+      "Algorithmic problem solving",
+      "Small-scale software solutions",
+      "Software development best practices"
+    ],
+    "prerequisites": [],
+    "course_type": "elective"
+  },
+  {
+    "course_id": "054081",
+    "course_code": "COSC2803",
+    "title": "Programming Studio 1",
+    "semester": "UGRDFlex24",
+    "credits": 24,
+    "campus": "City",
+    "school": "Computing Technologies",
+    "career": "Undergraduate",
+    "description": "N/A",
+    "topics": [],
+    "prerequisites": [],
+    "course_type": "elective"
+  },
+  {
+    "course_id": "N/A",
+    "course_code": "COSC3103",
+    "title": "Python Programming Bootcamp",
+    "semester": "UGRDFlex25",
+    "credits": 12,
+    "campus": "City",
+    "school": "Computing Technologies",
+    "career": "Undergraduate",
+    "description": "This course introduces programming in a bootcamp style. It covers algorithmic development, fundamental programming, and creation of small to medium software applications, along with testing, debugging, and modern software tools.",
+    "topics": [
+      "Algorithmic development",
+      "Control structures",
+      "Testing and debugging",
+      "Small/medium application development"
+    ],
+    "prerequisites": [],
+    "course_type": "core"
+  },
+  {
+    "course_id": "056558",
+    "course_code": "COSC3106",
+    "title": "Python Programming Studio",
+    "semester": "UGRDFlex25",
+    "credits": 24,
+    "campus": "City",
+    "school": "Computing Technologies",
+    "career": "Undergraduate",
+    "description": "N/A",
+    "topics": [],
+    "prerequisites": [],
+    "course_type": "core"
+  },
+  {
+    "course_id": "054986",
+    "course_code": "INTE2625",
+    "title": "Introduction to Cyber Security",
+    "semester": "UGRDFlex24",
+    "credits": 12,
+    "campus": "City",
+    "school": "Computing Technologies",
+    "career": "Undergraduate",
+    "description": "N/A",
+    "topics": [],
+    "prerequisites": [],
+    "course_type": "core"
+  }
+]

@@ -1,0 +1,79 @@
+{
+  "programs": [
+    {
+      "code": "BP355",
+      "title": "Bachelor of Cyber Security",
+      "duration": "3 years",
+      "campus": "City",
+      "career": "Undergraduate"
+    },
+    {
+      "code": "BP356",
+      "title": "Bachelor of Cyber Security (Professional)",
+      "duration": "4 years",
+      "campus": "City",
+      "career": "Undergraduate"
+    }
+  ],
+  "recommended_courses": {
+    "year_1": [
+      "Programming Studio 1",
+      "Programming Bootcamp 1",
+      "Introduction to Cyber Security",
+      "Data Communication and Net-Centric Computing",
+      "Security in Computing and Information Technology",
+      "Essentials of IT & Ethics",
+      "Foundations of Artificial Intelligence for STEM"
+    ],
+    "year_2": [
+      "Cloud Foundations",
+      "Software Engineering Fundamentals for IT",
+      "Computer and Internet Forensics",
+      "Security Testing",
+      "Cloud Security",
+      "Blockchain Technology Fundamentals",
+      "Secure Electronic Commerce",
+      "Major/Minor Course"
+    ],
+    "year_3": [
+      "Innovation Ecosystem and the Future of Work",
+      "Cyber Security Attack Analysis and Incidence Response",
+      "Software Engineering Project Management",
+      "Introduction to Cybersecurity Governance",
+      "Cyber Security Capstone Project",
+      "Major/Minor Course",
+      "Major/Minor Course"
+    ],
+    "year_4": [
+      "Approved Industry Experience 1",
+      "Software Engineering Principles and Practice 1",
+      "Approved Industry Experience 2",
+      "Software Engineering Principles and Practice 2"
+    ]
+  },
+  "minors": [
+    "Network Infrastructure",
+    "Artificial Intelligence and Machine Learning",
+    "Cloud Computing",
+    "Creative Computing",
+    "Data Science",
+    "Enterprise Systems Development",
+    "Blockchain Enabled Business",
+    "CISCO Networking"
+  ],
+  "career_paths": [
+    "Cyber security risk and threat analyst",
+    "Cyber-attack and incidents analyst",
+    "Penetration tester",
+    "Cyber security advisor",
+    "Cyber security consultant",
+    "Information security auditor",
+    "Digital forensics analyst",
+    "Cyber security system developer or programmer",
+    "Security architect",
+    "Security operations manager",
+    "Cyber security operations support analyst",
+    "Cyber security compliance and governance consultant",
+    "Cyber security lead"
+  ]
+}

@@ -1,0 +1,30 @@
+# Ignore environment variable files
+.env
+.env.local
+.env.*.local
+
+# Python cache and bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+.venv/
+venv/
+ENV/
+env/
+
+# VSCode settings
+.vscode/
+
+# Logs
+*.log
+
+# MacOS files
+.DS_Store
+
+# Other
+*.sqlite3
+*.db
+*.bak
+*.swp
