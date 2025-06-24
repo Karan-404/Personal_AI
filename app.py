@@ -1,6 +1,3 @@
-# Cyber Security Course Advisor via AWS Bedrock
-# Author: Cyrus Gao, extended by Xiang Li
-# Updated: May 2025
 
 import streamlit as st
 import json
@@ -178,7 +175,7 @@ if not st.session_state.logged_in:
         <div style="text-align: center; padding: 2rem 0;">
             <h1 style="color: #E40613; margin-bottom: 0.5rem;">🎓 RMIT Course Advisor</h1>
             <p style="color: #666; font-size: 1.1rem; margin-bottom: 2rem;">
-                Your AI-powered guide to Bachelor of Cyber Security courses
+                Your AI-powered guide to RMIT courses
             </p>
         </div>
         """, unsafe_allow_html=True)
@@ -190,14 +187,14 @@ if not st.session_state.logged_in:
             """, unsafe_allow_html=True)
             
             st.markdown("### 🔐 Login to Continue")
-            st.markdown("Sign in with your RMIT aws credentials or use guest access")
+            st.markdown("Sign in with your RMIT AWS Cognito credentials or use guest access")
             
             with st.form("login_form", clear_on_submit=False):
                 # Username input
                 username_input = st.text_input(
                     "👤 Username", 
-                    placeholder="Enter your RMIT username",
-                    help="Use your RMIT student ID or email"
+                    placeholder="Enter your  username",
+                    help="Use your AWS Cognito"
                 )
                 
                 # Password input
@@ -205,7 +202,7 @@ if not st.session_state.logged_in:
                     "🔒 Password", 
                     type="password", 
                     placeholder="Enter your password",
-                    help="Your RMIT account password"
+                    help="Your AWS Cognito account password"
                 )
                 
                 # Login buttons with better layout
@@ -244,7 +241,7 @@ if not st.session_state.logged_in:
                                 error_msg = str(e)
                                 if "NotAuthorizedException" in error_msg:
                                     st.error("❌ Invalid username or password")
-                                    st.info("💡 Please check your RMIT credentials or try Guest Access")
+                                    st.info("💡 Please check your AWS Cognito credentials or try Guest Access")
                                 elif "UserNotFoundException" in error_msg:
                                     st.error("❌ User not found")
                                     st.info("💡 Please check your username or try Guest Access")
